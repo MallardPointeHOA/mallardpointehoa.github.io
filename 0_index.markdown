@@ -3,4 +3,12 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: Home
+permalink: /
 ---
+
+## Announcements
+* Next meeting Details
+  * Date: \<TBD\>
+  * Location: \<TBD\>
+
