@@ -11,6 +11,7 @@ permalink: /resources/
 * Water: [Sammamish Plateau Water](https://www.spwater.org/)
 * Electricity: [Puget Sound Energy](https://www.pse.com/en)
 * Landscaping: Eastside Landscape Management (Contact: Adrian Hernandez, 206-618-9846)
+** Native Plants: [Guide](https://your.kingcounty.gov/dnrp/library/water-and-land/yard-and-garden/native-plant-guide-western-washington.pdf)
 * HOA Insurance: Philadelphia Insurance Companies (610-617-7900)
 
 ### Meeting Minutes
